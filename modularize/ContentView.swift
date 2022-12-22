@@ -20,6 +20,7 @@ struct ContentView: View {
             Color.pink700
             Color.pink800
             Color.pink900
+            Color.pink400
         }.ignoresSafeArea()
         
     }
